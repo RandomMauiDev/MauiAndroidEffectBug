@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAndroidEffectBug", "MauiAndroidEffectBug\MauiAndroidEffectBug.csproj", "{8267F501-83B3-42C4-9919-D73DD502236F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8267F501-83B3-42C4-9919-D73DD502236F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16610DC8-F621-405C-BA76-2873424E7D36}
+	EndGlobalSection
+EndGlobal
